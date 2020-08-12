@@ -2,6 +2,6 @@
 
 This poject is an Ecommerce Product Page design with HTML, CSS, & Javascript
 
-![EcommerceProductsPage](/images/collections.PNG)
+![PortfolioDesign](./abt.PNG)
 
-View app [here](https://gatemediang.github.io/EcommerceProductsPage)
+View app [here](https://gatemediang.github.io/PortfolioDesign)
